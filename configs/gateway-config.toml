@@ -1,0 +1,6 @@
+bind_addr = ":8000"
+log_level = "debug"
+kafka_addr = "localhost:9092"
+kafka_topic = "books"
+kafka_partition = 0
+kafka_timeout = 10
